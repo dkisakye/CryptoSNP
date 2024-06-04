@@ -1,1 +1,1 @@
-# CryptoSNPCaller
+# CryptoSNP
