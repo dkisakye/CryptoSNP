@@ -1,0 +1,13 @@
+name: CryptoSNP
+debug: true
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastqc=0.11.9
+  - bwa
+  - samtools=1.14
+  - java-openjdk=17.0.2
+  - picard
+  - freebayes
+  - parallel  #double check version
